@@ -1,0 +1,2 @@
+D:\30215_윤교준\RunGame2\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\30215_윤교준\RunGame2\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
