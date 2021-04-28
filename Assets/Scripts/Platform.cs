@@ -24,7 +24,7 @@ public class Platform : MonoBehaviour
         }
     }
     
-    void OnCollisionEnter2D(Collision collision)
+    void OnCollisionEnter2D(Collision2D collision)
     {
         if(collision.collider.tag == "Player" && !stepped)
         {
